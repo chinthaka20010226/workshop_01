@@ -4,3 +4,4 @@ def what_is_your():
 
 name = what_is_your()
 print(name)
+print("hi " + name)
